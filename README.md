@@ -3,7 +3,7 @@
 </div>
 <div align="center">
   <a href="https://t.me/swenlii"><img src="https://img.shields.io/badge/Telegram-26A5E5?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram"></a>
-  <a href="mailto:swenliw@gmail.com"><img src="https://img.shields.io/badge/Personal_site-blueviolet?style=for-the-badge&logo=Undertale&logoColor=white" alt="vk"></a>
+  <a href="https://swenlii.up.railway.app/"><img src="https://img.shields.io/badge/Personal_site-blueviolet?style=for-the-badge&logo=Undertale&logoColor=white" alt="vk"></a>
   <a href="https://vk.com/swenlii"><img src="https://img.shields.io/badge/vk-0077FF?style=for-the-badge&logo=vk&logoColor=white" alt="vk"></a>
 </div>
 
@@ -53,8 +53,8 @@
 
 ### 💎 А еще...
 
-<!-- - Мой персональный сайт-портфолио: [Swenli's portfolio](somelink.com) -->
-<!-- - Мой блог: [Conspectus](somelink.com) -->
+- Мой персональный сайт-портфолио: [Swenli's portfolio](https://swenlii.up.railway.app/) -->
+- Мой блог: [Conspectus](https://conspectus.vercel.app/) -->
 - Я редко захожу в [vk](https://vk.com/swenlii), но я там [есть](https://vk.com/swenlii)
 - Чаще всего меня можно найти в [telegram](t.me/swenlii): [@swenlii](t.me/swenlii)
 - Мой рабочий email: [swenliw@gmail.com](mailto:swenliw@gmail.com)
