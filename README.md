@@ -57,7 +57,7 @@
 - Мой блог: [Conspectus](https://conspectus.vercel.app/)
 - Я редко захожу в [vk](https://vk.com/swenlii), но я там [есть](https://vk.com/swenlii)
 - Чаще всего меня можно найти в [telegram](t.me/swenlii): [@swenlii](t.me/swenlii)
-- Мой рабочий email: [swenliw@gmail.com](mailto:swenliw@gmail.com)
+- Мой рабочий email: [ira.swenlii@gmail.com](mailto:ira.swenlii@gmail.com)
 - Как истинный геймер, я часто сижу в стиме: [@swenlii](steamcommunity.com/id/swenlii)
 
 
