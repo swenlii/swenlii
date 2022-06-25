@@ -59,6 +59,7 @@
 - Я редко захожу в [vk](https://vk.com/swenlii), но я там [есть](https://vk.com/swenlii)
 - Чаще всего меня можно найти в [telegram](t.me/swenlii): [@swenlii](t.me/swenlii)
 - У меня есть страничка на [linkedin](https://www.linkedin.com/in/swenlii)
+- Мой старый [профиль твиттер](https://twitter.com/swenlii) еще не умер
 - Мой рабочий email: [ira.swenlii@gmail.com](mailto:ira.swenlii@gmail.com)
 - Как истинный геймер, я часто сижу в стиме: [@swenlii](steamcommunity.com/id/swenlii)
 
