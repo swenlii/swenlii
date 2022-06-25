@@ -57,11 +57,11 @@
 - Мой персональный сайт-портфолио: [Swenli's portfolio](https://swenlii.up.railway.app/)
 - Мой блог: [Conspectus](https://conspectus.vercel.app/)
 - Я редко захожу в [vk](https://vk.com/swenlii), но я там [есть](https://vk.com/swenlii)
-- Чаще всего меня можно найти в [telegram](t.me/swenlii): [@swenlii](t.me/swenlii)
+- Чаще всего меня можно найти в [telegram](https://t.me/swenlii): [@swenlii](https://t.me/swenlii)
 - У меня есть страничка на [linkedin](https://www.linkedin.com/in/swenlii)
 - Мой старый [профиль твиттер](https://twitter.com/swenlii) еще не умер
 - Мой рабочий email: [ira.swenlii@gmail.com](mailto:ira.swenlii@gmail.com)
-- Как истинный геймер, я часто сижу в стиме: [@swenlii](steamcommunity.com/id/swenlii)
+- Как истинный геймер, я часто сижу в стиме: [@swenlii](https://steamcommunity.com/id/swenlii)
 
 
 
