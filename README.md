@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media0.giphy.com/media/QmH8OnsBQvC4yn8BnX/giphy.gif?cid=790b7611aa2cdc53abcf1cd8ae14aed21ec670378e599854&rid=giphy.gif&ct=s" alt="it is me" width="300">
+  <img src="https://media.giphy.com/media/12PXNbcHW8C9Bm/giphy.gif" alt="it is me" width="300">
 </div>
 <div align="center">
   <a href="https://t.me/swenlii"><img src="https://img.shields.io/badge/Telegram-26A5E5?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram"></a>
