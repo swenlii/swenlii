@@ -55,7 +55,8 @@
 ### 💎 А еще...
 
 - Мой персональный сайт-портфолио: [Swenli's portfolio](https://swenlii.up.railway.app/)
-- Мой блог: [Conspectus](https://conspectus.vercel.app/)
+- Мой профессиональный блог: [Conspectus](https://conspectus.vercel.app/)
+- Мой личный блог: [Swenlii](https://swenlii.epizy.com/)
 - Я редко захожу в [vk](https://vk.com/swenlii), но я там [есть](https://vk.com/swenlii)
 - Чаще всего меня можно найти в [telegram](https://t.me/swenlii): [@swenlii](https://t.me/swenlii)
 - У меня есть страничка на [linkedin](https://www.linkedin.com/in/swenlii)
