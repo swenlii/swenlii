@@ -1,12 +1,15 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/12PXNbcHW8C9Bm/giphy.gif" alt="it is me" width="200">
+  <img src="https://media.giphy.com/media/J60klcdfVdpryi1u78/giphy.gif" alt="it is me" width="300">
 </div>
 <div align="center">
   <a href="https://t.me/swenlii"><img src="https://img.shields.io/badge/Telegram-26A5E5?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram"></a>
+  <a href="https://swenlii.epizy.com"><img src="https://img.shields.io/badge/Blog-crimson?style=for-the-badge&logo=wordpress&logoColor=white" alt="blog"></a>
   <a href="https://www.linkedin.com/in/swenlii"><img src="https://img.shields.io/badge/linkedin-0066DD?style=for-the-badge&logo=linkedin&logoColor=white" alt="vk"></a>
   <a href="https://swenlii.up.railway.app/"><img src="https://img.shields.io/badge/Personal_site-blueviolet?style=for-the-badge&logo=Undertale&logoColor=white" alt="vk"></a>
   <a href="https://vk.com/swenlii"><img src="https://img.shields.io/badge/vk-0077FF?style=for-the-badge&logo=vk&logoColor=white" alt="vk"></a>
 </div>
+
+<h1 align="center">Приветствую!</h1>
 
 ### 🧁 Обо мне :
 Привет! Я full-stack разработчик из России🇷🇺. Мое настоящее имя - Ирина. Я люблю возится с версткой и решать сложные задачки на алгоритмы. Мне нравится что-то создавать и видеть прогресс в процессе. Именно поэтому мне нравится front-end программирование. Мгновенный прогресс!
