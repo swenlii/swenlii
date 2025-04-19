@@ -29,28 +29,37 @@
 <img src="https://img.shields.io/badge/HTML-dcdcdc?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5"></img>
 <img src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white" alt="CSS3"></img>
 <img src="https://img.shields.io/badge/JavaScript-14161A?style=for-the-badge&logo=javascript&logoColor=yellow" alt="JavaScript"></img>
+<img src="https://img.shields.io/badge/ES6-792de3?style=for-the-badge" alt="ES6"></img>
 <img src="https://img.shields.io/badge/Vuex-8D5A9E?style=for-the-badge&logoColor=white" alt="vuex"></img>
+<img src="https://img.shields.io/badge/Pinia-e3e02d?style=for-the-badge&logoColor=white" alt="Pinia"></img>
 <img src="https://img.shields.io/badge/Vue%20router-05164D?style=for-the-badge&logoColor=white" alt="vue-router"></img>
 <img src="https://img.shields.io/badge/Vue%20CLI-FFCF00?style=for-the-badge&logo=vue.js&logoColor=333" alt="Vue CLI"></img>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=fff" alt="Vite"></img>
 <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=333" alt="Webpack"></img>
+<img src="https://img.shields.io/badge/SOLID-ff9c24?style=for-the-badge&logoColor=white" alt="SOLID"></img>
 <img src="https://img.shields.io/badge/Unit%20Testing-E0234E?style=for-the-badge&logoColor=white" alt="Unit testing"></img>
 <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" alt="Vitest"></img>
 <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest"></img>
 <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS"></img>
 <img src="https://img.shields.io/badge/Stylus-333333?style=for-the-badge&logo=stylus&logoColor=white" alt="Stylus"></img>
 <img src="https://img.shields.io/badge/BEM-000000?style=for-the-badge&logo=bem&logoColor=white" alt="BEM"></img>
+<img src="https://img.shields.io/badge/SEO-e0584f?style=for-the-badge" alt="SEO"></img>
+<img src="https://img.shields.io/badge/SSR-1219fc?style=for-the-badge" alt="SSR"></img>
+<img src="https://img.shields.io/badge/SPA-378720?style=for-the-badge" alt="SPA"></img>
 <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Wordpress"></img>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git"></img>
 <img src="https://img.shields.io/badge/npm-bf1817?style=for-the-badge&logo=npm&logoColor=white" alt="npm"></img>
 <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"></img>
 <img src="https://img.shields.io/badge/Express.js-0071B5?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"></img>
+<img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" alt="Axios"></img>
+<img src="https://img.shields.io/badge/REST%20API-008f91?style=for-the-badge" alt="REST API"></img>
 <img src="https://img.shields.io/badge/ejs-B4CA65?style=for-the-badge&logo=ejs&logoColor=333" alt="ejs"></img>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"></img>
 
 
 tools
 
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira software&logoColor=white" alt="Jira"></img>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira%20software&logoColor=white" alt="Jira"></img>
 <img src="https://img.shields.io/badge/Webstorm-black?style=for-the-badge&logo=webstorm&logoColor=white" alt="Webstorm"></img>
 <img src="https://img.shields.io/badge/GitLab-fcb28d?style=for-the-badge&logo=gitlab&logoColor=333" alt="Gitlab"></img>
 <img src="https://img.shields.io/badge/Git%20for%20Windows-80B3FF?style=for-the-badge&logo=gitforwindows&logoColor=white" alt="git"></img>
