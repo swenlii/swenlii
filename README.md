@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" alt="it is me" width="250">
+  <img src="https://media3.giphy.com/media/aNqEFrYVnsS52/giphy.gif?cid=6c09b9522g6d5dgmon85117vqhrq5eql1pnwed79yt5c0sr9&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" alt="code every day" width="250">
 </div>
 <div align="center">
   <a href="https://t.me/swenlii"><img src="https://img.shields.io/badge/telegram-26A5E5?style=flat&logo=telegram&logoColor=white" alt="telegram"></a>
